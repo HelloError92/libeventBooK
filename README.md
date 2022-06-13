@@ -1,4 +1,5 @@
 # 《Libevent深入浅出》
+另一个参考：https://www.bookstack.cn/read/libevent/450ef2232c710e15.md 
 
 本教程要求有一定的服务并发编程基础，了解select和epoll等多路I/O复用机制。
 
